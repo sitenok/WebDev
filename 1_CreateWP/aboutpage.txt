@@ -1,0 +1,15 @@
+<!-- Website to describe TUDublin, course and modules. Homepage.
+	Author: Nicole Sitenok
+	Date: 02/02/2021
+-->
+<!DOCTYPE html>
+<html>
+	<body>
+		<h2>About Page</h2>
+		<br></br>
+		<p>This webpage describes the computer science modules and includes the timetable!
+			<br></br>
+			All can be accessed through links on the bottom of the Homepage!
+		</p>
+	</body>
+</html>

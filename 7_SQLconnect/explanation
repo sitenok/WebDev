@@ -5,4 +5,4 @@ User can enter Username, Password, Firstname, Lastname and Age.
 
 Current Hour 
 Allows user to enter a time,
-Submit returns "Good Morning" or "Good Evening", depending on input.
+Submit returns "Good Morning" or "Good Evening"; depending on input.

@@ -1,2 +1,7 @@
 Index Page displays 4 links: Show, add, update, delete.
 Each link brings to appropriate PHP page which shows/adds/updates/deletes data in a local SQL database.
+
+Only Add function complete:
+HTML page link brings user to a PHP/HTML page which prompts for input:
+Product Name:, Description:, Price:, Stock:.
+These values are added to the database by sending in an SQL query with the user's inputs.

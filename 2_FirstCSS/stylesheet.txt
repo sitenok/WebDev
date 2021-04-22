@@ -1,0 +1,41 @@
+/* CCS file for firstcss.html */
+
+body
+{background-color: beige; 
+ border: 10px groove; 
+ }
+
+table
+{
+	table-layout: auto;
+	border: dashed;
+	color: cadetblue;
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 10px;
+	
+}
+
+p
+{color: black;
+ text-align: center;
+}
+
+p:hover
+{
+	background-color: darkseagreen;
+}
+
+h1
+{color: black; 
+ font: Garamond; 
+ text-align: center;
+ 
+ }
+ 
+a:link {color: deeppink;}
+a:hover {color: darkred;}
+a:visited {color:grey;}
+
+
+ 

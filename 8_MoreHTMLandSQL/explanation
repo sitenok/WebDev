@@ -1,0 +1,2 @@
+Index Page displays 4 links: Show, add, update, delete.
+Each link brings to appropriate PHP page which shows/adds/updates/deletes data in a local SQL database.

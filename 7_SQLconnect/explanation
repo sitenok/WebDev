@@ -1,0 +1,8 @@
+Connecting PHP to local SQL database.
+Using HTML form to accept user input, submit to PHP form.
+PHP form connects to database and adds user input to database.
+User can enter Username, Password, Firstname, Lastname and Age.
+
+Current Hour 
+Allows user to enter a time,
+Submit returns "Good Morning" or "Good Evening", depending on input.
